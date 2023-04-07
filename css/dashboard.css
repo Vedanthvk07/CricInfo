@@ -34,3 +34,6 @@ img{
 .white{
     text-align: center;
 }
+label{
+    display: block;
+}
